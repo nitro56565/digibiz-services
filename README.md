@@ -19,7 +19,7 @@ To run this application locally, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/nitro56565/digibiz-services
+    git clone https://github.com/nitro56565/digibiz-services.git
     ```
 
 2. **Navigate to the project directory:**
