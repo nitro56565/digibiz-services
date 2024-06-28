@@ -17,10 +17,10 @@ const App = () => {
       <section className="self-stretch flex flex-row items-start justify-start pt-0 px-0 pb-[47.5px] box-border top-[0] z-[99] sticky max-w-full">
         <header className="flex-1 [backdrop-filter:blur(32px)] bg-gray-600 flex flex-row items-start justify-between pt-2 px-20 pb-0 box-border max-w-full gap-[20px] z-[2] mq750:pl-10 mq750:pr-10 mq750:box-border">
           <img
-            className="h-[100px] w-[172px] relative object-contain mq450:w-[100px]"
+            className="h-[100px] relative object-contain mq450:w-[100px]"
             loading="lazy"
             alt=""
-            src="/osumare-logo01-2-4@2x.png"
+            src="/transparent logo.png"
           />
           <div className="w-[216px] flex flex-col items-start justify-start pt-7 px-0 pb-0 box-border mq450:w-[130px]">
             <button className="cursor-pointer py-2 px-[23px] bg-[transparent] self-stretch rounded-13xl flex flex-row items-start justify-start gap-[4px] whitespace-nowrap border-[1px] border-solid border-gray-400 hover:bg-darkslategray-400 hover:box-border hover:border-[1px] hover:border-solid hover:border-darkslategray-100">

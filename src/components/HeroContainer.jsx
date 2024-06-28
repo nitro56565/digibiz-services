@@ -9,7 +9,7 @@ const HeroContainer = ({ className = "" }) => {
               <b className="text-royalblue">Real Estate Success</b>
               <span className="font-medium">
                 {" "}
-                with Osumare's Digital Expertise
+                with Digibiz's Digital Expertise
               </span>
             </h1>
             <div className="mq450:pb-[30px] self-stretch relative text-5xl leading-[36px] font-body300-rg text-darkslategray-200 z-[2] mq450:text-lgi mq450:leading-[29px]">

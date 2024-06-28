@@ -33,7 +33,7 @@ const FrameComponent4 = ({ className = "" }) => {
                 <p className="mq750:pb-[100px] m-0 self-stretch h-[216px] relative text-5xl leading-[36px] font-body300-rg text-darkslategray-200 inline-block mq450:text-lg mq750:text-xl">
                   In the dynamic realm of real estate, the journey from a
                   property inquiry to a successful conversion demands a
-                  well-crafted approach. At Osumare, we specialize in guiding
+                  well-crafted approach. At Digibiz Technology, we specialize in guiding
                   potential buyers through this journey seamlessly, maximizing
                   inquiries-turned-conversions with expert strategies.
                 </p>

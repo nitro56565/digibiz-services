@@ -14,15 +14,15 @@ const toggle= (i)=>{
 const data = [
     {
         question: "Optimized Path to Property Purchase",
-        answer: "At Osumare, we understand that the real estate landscape demands a digital presence that aligns with the intricacies of property marketing. Our range of specialized services is meticulously designed to catapult your brand's success in the ever-evolving digital property market."
+        answer: "At Digibiz, we understand that the real estate landscape demands a digital presence that aligns with the intricacies of property marketing. Our range of specialized services is meticulously designed to catapult your brand's success in the ever-evolving digital property market."
     },
     {
         question: "Optimized Path to Property Purchase",
-        answer: "At Osumare, we understand that the real estate landscape demands a digital presence that aligns with the intricacies of property marketing. Our range of specialized services is meticulously designed to catapult your brand's success in the ever-evolving digital property market."
+        answer: "At Digibiz, we understand that the real estate landscape demands a digital presence that aligns with the intricacies of property marketing. Our range of specialized services is meticulously designed to catapult your brand's success in the ever-evolving digital property market."
     },
     {
         question: "Optimized Path to Property Purchase",
-        answer: "At Osumare, we understand that the real estate landscape demands a digital presence that aligns with the intricacies of property marketing. Our range of specialized services is meticulously designed to catapult your brand's success in the ever-evolving digital property market."
+        answer: "At Digibiz, we understand that the real estate landscape demands a digital presence that aligns with the intricacies of property marketing. Our range of specialized services is meticulously designed to catapult your brand's success in the ever-evolving digital property market."
     },
 ]  
 let after = "h-auto max-h-9999"

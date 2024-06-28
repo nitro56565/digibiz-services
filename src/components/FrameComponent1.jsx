@@ -34,7 +34,7 @@ const FrameComponent1 = ({ className = "" }) => {
               </div>
               <div className="self-stretch flex flex-col items-start justify-start text-5xl font-body300-rg">
                 <p className="m-0 self-stretch h-[180px] relative leading-[36px] flex items-center mq450:text-lgi mq450:leading-[29px]">
-                  Osumare's expertise in pharma marketing is unparalleled. Their
+                  Digibiz Technologie's expertise in pharma marketing is unparalleled. Their
                   strategies helped us navigate complex regulations while
                   driving remarkable growth.
                 </p>

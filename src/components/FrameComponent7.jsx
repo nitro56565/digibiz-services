@@ -23,7 +23,7 @@ const FrameComponent7 = ({ className = "" }) => {
                 Unlock the Potential of Digital Real Estate Excellence
               </b>
               <p className="text-lg	m-0 self-stretch h-[170px] relative text-5xl leading-[36px] font-body300-rg text-darkslategray-200 inline-block mq450:text-lgi mq450:leading-[29px] mq750:h-[260px] mq450:h-[260px]">
-                At Osumare, we understand that the real estate landscape demands
+                At Digibix Technology, we understand that the real estate landscape demands
                 a digital presence that aligns with the intricacies of property
                 marketing. Our range of specialized services is meticulously
                 designed to catapult your brand's success in the ever-evolving
